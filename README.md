@@ -23,3 +23,4 @@ En Modern, En Progresif, En Metal Framework (Inspired by Eser Ozvataf's ne-lazim
   </body>
 </html>
 ```
+Bu reponun gelistirilme sureci JS Gang tarafindan yurutulmektedir. 
