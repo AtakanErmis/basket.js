@@ -11,13 +11,14 @@ En Modern, En Progresif, En Metal Framework (Inspired by Eser Ozvataf's ne-lazim
 ```html
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <script>
-      // basketjs kodunuzu yerleştirin
-    </script>
-  </head>
   <body>
-    <button onclick="//basketjs kodunuzu yerleştirin"></button>
+    <button onclick="doSomething()"></button>
+    
+    <script>
+      function doSomething() {
+        alert('Biri butona mı tıkladı?!')
+      }
+    </script>
   </body>
 </html>
 ```
